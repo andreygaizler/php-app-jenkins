@@ -29,7 +29,7 @@ else
         <p>This environment is launched with Elastic Beanstalk PHP Platform</p>
 		<p></p>
 		<p>Hello This is 1st version</p>
-		<p><font color=red>Hello This is 2ndd version</font></p>
+		<p><font color=red>Hello This is 2nddd version</font></p>
     </section>
 
     <section class="instructions">
